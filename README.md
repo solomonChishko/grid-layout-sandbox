@@ -2,7 +2,7 @@
 
 ## Logistics
 
-**Goal**: Practice your HTML and CSS layout skills by recreating a layout that you find in the wild. You will find the site, wireframe it, and based on your wireframe, code it with CSS Grid. Feel free to also include additional elements for practice and apply a simple color scheme.
+**Goal**: Practice your HTML and CSS layout skills by recreating a layout that you find in the wild. This layout can be either in print, such as a magazine, a website, or any other grid layout that you find. You will find the grid layout, wireframe it, and based on your wireframe, code it with CSS Grid. Feel free to also include additional elements for practice and apply a simple color scheme.
 
 **DO NOT** copy-paste their code. This is considered plagiarism in this situation, since I am asking you to distill the overall design. Besides copy-pasting their code would prove difficult anyway, since they may not even be using CSS Grid, so their HTML and CSS will be quite different.
 
@@ -22,7 +22,7 @@ Follow the usual procedure:
 4. Once you create this basic structure, then wireframe your layout in the wild. (See the <code>/wireframes</code> folder.)
 5. Once your wireframe is complete, add an image of the wireframe to your <code>images</code> folder.
 6. Embed this image in your README.md file with an image tag.
-7. Under the image, add a link to the site.
+7. Under the image, add a link to the site or embed another image of the grid artifact.
 8. **5 BONUS POINTS**: Make your site adapt to a mobile-size screen by using the <code>@media</code> query.
 8. Once you've completed your site, follow the procedure: push the changes to your forked code reop, then create a pull request to the org.
 
